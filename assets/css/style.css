@@ -58,6 +58,7 @@ nav a:hover {
     color: darkred;
 }
 
+
 #banner {
     width: 100%;
     height: auto;
@@ -88,4 +89,26 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+/* Bonus Activity Styling */
+
+/* highlights the active page on the navigation */
+ .active {
+    color: darkred;
+}
+
+/* banner for store closure */
+#closed {
+    width: 100%;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+/* footer */
+
+footer {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(224, 204, 179);
 }
