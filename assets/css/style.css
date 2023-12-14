@@ -27,6 +27,11 @@ main {
     margin: 0 20%;
 }
 
+#abt {
+    list-style-type: none;
+    text-align: center;
+}
+
 nav {
     background-color: beige;
     padding: 10px;
